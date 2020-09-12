@@ -83,13 +83,14 @@ a {
 }
 
 .box > img {
-    width: 100%;
+    height: 322px;
+    width: 353px;
 }
 
 .box {
     background-color: #444;
-    padding: 130px;
-    margin: 20px;
+    
+    
 }
 
 footer {
