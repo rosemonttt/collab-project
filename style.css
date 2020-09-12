@@ -3,6 +3,9 @@ body {
     font-family: Arial;
 }
 
+div {
+    cursor:pointer;
+
 .zone {
     /* cursor:pointer;*/
     /* display:inline-block;*/
